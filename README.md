@@ -65,7 +65,7 @@ Based on the Centers for Disease Control and Prevention (CDC), heart disease is 
 The previous pie charts indicate that the most consistent type of medication filled through the years include drugs that treat high cholesterol.  Atorvastatin is a cholesterol medication that has been in the top 10 medications filled since 2013.
 </p>
 <p align = "center">
-<img src ="./Saved_Figures/Total_Atorvastatin_Prescriptions_Filled.jpg" alt = "atorvastatin bar graph" width ="500">
+    <img src ="./Saved_Figures/Total_Atorvastatin_Prescriptions_Filled.jpg" alt = "atorvastatin bar graph" width ="500">
 </p>
 <p>
 As illustrated in the bar graph above, the number of Atorvastatin prescriptions over the years has increased.  The amount of Atorvastatin prescriptions filled in 2013 is about 65,000,000, and by 2021 that number increases to about 116,000,000.
@@ -92,4 +92,63 @@ The second fun fact can be used to explain why the number of Atorvastatin prescr
 </p>
 <p>
 Even though Atorvastatin is more commonly used to lower cholesterol, there is an additional reason to dispense the medication that could have led to the almost double amount of prescriptions filled for this medication in nine years.
+</p>
+<p align = "center">
+    <img src ="./Saved_Figures/Total_Metformin_Prescriptions_Filled.jpg" alt = "metformin bar graph" width ="500">
+</p>
+<p>
+The second bar graph above illustrates the amount of presciptions filled specifically for Metformin since 2013.  When looking at the amount of prescriptions that were filled for Metformin compared to those for Atorvastatin, a major difference is that Metformin has never reached the hundred millions.
+</p>
+<p>
+Metformin has been one of the top 10 medications that has been filled for the nine years presented in the data, however Atorvastatin has always shown to have been dispensed more.
+</p>
+<p>
+The primary reason that Metformin is dispensed to patients is to treat high blood sugar levels, which is a major factor that need to be taken care of to prevent a potential heart event.  It is no surprise that Atorvastatin and Metformin have some of the highest amounts of prescriptions filled through the years, making these two medications the top two medications filled in 2021 alone.
+</p>
+
+**Fun Fact # 3**
+
+<ul>
+    <li>Metformin may also have benefits for people who do not have diabetes or borderline high blood sugar levels.</li>
+        <ul>
+            <li>Metformin can improve fertility for some people who have trouble getting pregnant.  By reducing insulin levels, this allows for more egg release.</li>
+            <li>Metformin can help treat obesity and obesity-related conditions, and can help people with obesity reduce their weight, even if they do not have diabetes.</li>
+            <li>Metformin has shown to slow some tumor growth and stop certain tumors from forming, but it is not clear if metformin can stop cancer from developing in living people.</li>
+        </ul>
+</ul>
+<p>
+The third fun fact lists other reasons that Metformin may be dispensed to patients.  Even though its primary use is to treat diabetes, borderline high blood sugar levels, and hopefullly prevent heart conditions from forming, this are all valid reasons as to why doctors may still write for this medication so often.
+</p>
+<p>
+Even though Metformin has not reaced the amount of prescriptions filled as Atorvastatin, it is clear that medications with multiple uses tend to see themselves at the height of the medications filled over the years.
+</p>
+<p>
+When comparing the final years that data was availble for these medications, Atorvastatin and Metformin have increasingly strong numbers for their prescription counts.  Since the treatment of potential heart conditions has become one of the main focuses of healthcare professionals in various health related fields, the number of prescriptions filled for medications that can be used to prevent a heart event will most likely keep increasing.
+</p>
+<p>
+<i><b>What about the other drug classes that have been filled through the years?</i></b>
+</p>
+<p>
+To people that look passed the exploding pieces of the pie chart they will notice that one of the drug classes that has been filled since 2013 and continues to be a top class filled still in 2021 include antacids, more specifically an antacid called a Proton Pump Inhibitor (PPI).
+</p>
+<p>
+The counts for the prescriptions filled for Omeprazole, a PPI antacid, have consistenly placed this medication as one of the top 10 filled since 2013.
+</p>
+<p align = "center">
+    <img src ="./Saved_Figures/Total_Omeprazole_Prescriptions_Filled.jpg" alt = "omeprazole bar graph" width ="500"
+</p>
+<p>
+When looking at all three bar graphs comparing the number of prescriptions filled for each medication 
+</p>
+
+
+
+
+## Costs of Prescription Medications
+
+<p>
+A major factor that can contribute to the increase in prescriptions being filled for various medications is the cost of the medications.  Most patients that use prescription medications for chronic conditions rarely pay full retail price for the medicine that they need to take every single month.
+</p>
+<p>
+Private health insurances and those that are run by the state or federal government contribute to most of the coverage for prescription medications.
 </p>
