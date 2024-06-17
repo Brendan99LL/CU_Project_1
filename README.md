@@ -1,5 +1,12 @@
 # CU_Project_1
 Columbia University Bootcamp Project 1
+<p>
+The figures used for the analysis have been created through Jupyter Notebook using the Python coding languange and other libraries.
+</p>
+<p>
+The code for the figures is named Drugs.py.ipynb in the respository.
+</p>
+
 
 # Welcome to the Wonderful World of Prescription Drugs! 
 
